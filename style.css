@@ -9,8 +9,12 @@
 #fish {
     grid-column: 1/4;
     grid-row: 1/2;
-}
 
+}
+img {
+    height: 100%;
+    width: 100%;
+}
 #map {
     grid-column: 1/4;
     grid-row: 2/3;
@@ -20,6 +24,7 @@
 #vase-small{
     grid-column: 3/4; 
     grid-row: 1/3;
+    height: 100%;
 }
 #vase-big {
     grid-column: 1/2; 
